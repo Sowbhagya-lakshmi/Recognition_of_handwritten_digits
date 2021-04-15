@@ -1,0 +1,2 @@
+# Recognition_of_handwritten_digits
+MNIST classification using tensorflow
